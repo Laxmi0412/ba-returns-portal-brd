@@ -67,13 +67,16 @@ The current return process takes 3–5 days and causes delays and errors. The pr
 
 ---
 
-🔄 Process Flow (BPMN)
+## 🔄 Process Flow (BPMN)
+
+The diagram shows the end-to-end return process across Customer, System, and Warehouse.
+
+![BPMN Diagram](bpmn-diagram.png)
 
 ### What is BPMN?
 BPMN stands for Business Process Model and Notation. It is a standard way of visualizing business processes using symbols like events, tasks, and gateways.
 
-### My Process Flow Diagram
-<img width="952" height="228" alt="image" src="https://github.com/user-attachments/assets/473417cb-830c-411b-8b7e-5f2619055841" />
+/>
 
 
 ### Reflection
