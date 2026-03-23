@@ -28,17 +28,16 @@ This project demonstrates Business Analyst skills by designing an automated cust
 
 ---
 
-## 🧠 Day 1 — BA Role Understanding (Summary)
+  📊 Business Analysis Overview
 Analyzed Business Analyst job descriptions and identified key skills like requirements gathering, process mapping, and stakeholder communication. Identified gaps in BRD writing, Agile, and tools like JIRA.
 
 ---
 
-## 🧠 Day 2 — BRD Learning (Summary)
+📄 Business Requirements Document (BRD)
 Learned the structure of a Business Requirements Document including scope, stakeholders, functional requirements, non-functional requirements, constraints, assumptions, and success metrics.
 
 ---
 
-## 📄 Day 3 — Business Requirements Document
 
 ### 🎯 Scenario
 An e-commerce company wants to automate its manual returns process.
@@ -68,7 +67,7 @@ The current return process takes 3–5 days and causes delays and errors. The pr
 
 ---
 
-## 🔄 Day 4 — Process Mapping with BPMN
+🔄 Process Flow (BPMN)
 
 ### What is BPMN?
 BPMN stands for Business Process Model and Notation. It is a standard way of visualizing business processes using symbols like events, tasks, and gateways.
@@ -82,6 +81,7 @@ Created a BPMN diagram using Lucidchart AI with Customer, System, and Warehouse 
 
 ---
 
-## 🚀 Tools Used
-- Lucidchart  
-- GitHub  
+## 🛠 Tools Used
+- Lucidchart (Process Mapping)
+- GitHub (Documentation)
+- Excel (Analysis)
