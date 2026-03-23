@@ -1,8 +1,13 @@
-# 📌 Automated Customer Returns Portal — BRD
+# 📌 Automated Customer Returns Portal
+
 ## 🚀 Project Impact
-- Reduced manual return processing time from 3–5 days to 4 hours (proposed)
-- Designed end-to-end automated workflow
-- Created BRD, BPMN, and User Stories
+- Reduced return processing time from 3–5 days to 4 hours (proposed)
+- Designed automated end-to-end returns workflow
+- Created BRD, BPMN, and User Stories for implementation
+
+## 📖 Project Overview
+This project demonstrates Business Analyst skills by designing an automated returns portal for an e-commerce company to replace a manual process.
+
 
 ### 👤 Author
 Laxmi Rushaali Kuravi  
