@@ -1,0 +1,35 @@
+Day 4 — Process Mapping with BPMN
+What is BPMN?
+
+BPMN stands for Business Process Model and Notation.
+It is a standard way of drawing business processes using specific symbols. Start events show where a process begins, tasks show actions, gateways show decisions, and end events show where the process finishes. Swimlanes show which department or person is responsible for each step.
+
+My Process Flow Diagram
+
+(Insert your BPMN diagram here in GitHub: Add file → Upload files → select your PNG)
+
+BPMN Symbols Used
+🟢 Start Event — thin circle — where process begins
+⬜ Task — rectangle — an action someone does
+🔷 Gateway — diamond — a Yes/No decision point
+🔴 End Event — thick circle — where process ends
+📊 Swimlane — horizontal lane — shows WHO does each step
+My Process Flow
+
+Customer Order Process with 3 swimlanes:
+
+Customer lane
+System lane
+Warehouse lane
+Day 4 Reflection
+
+Today I learned BPMN notation and created my first process flow diagram using Lucidchart AI. The diagram shows a customer order process with Customer, System, and Warehouse swimlanes. I learned that gateways represent decision points — like whether a payment was successful or not. Process mapping is a core BA skill used every day to document how business processes work.
+
+Key Learnings
+Gateways show decision points like payment success/failure
+Swimlanes show responsibility per department
+Process mapping is a core daily BA skill
+Used Lucidchart AI to generate the diagram
+Tool Used
+
+Lucidchart (free tier)
