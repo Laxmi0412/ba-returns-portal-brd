@@ -65,7 +65,8 @@ The current return process takes 3–5 days and causes delays and errors. The pr
 BPMN stands for Business Process Model and Notation. It is a standard way of visualizing business processes using symbols like events, tasks, and gateways.
 
 ### My Process Flow Diagram
-![BPMN Diagram](bpmn-diagram.png)
+<img width="952" height="228" alt="image" src="https://github.com/user-attachments/assets/473417cb-830c-411b-8b7e-5f2619055841" />
+
 
 ### Reflection
 Created a BPMN diagram using Lucidchart AI with Customer, System, and Warehouse swimlanes. Learned how gateways represent decision points such as payment success or failure.
