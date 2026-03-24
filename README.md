@@ -98,7 +98,11 @@ This diagram highlights user interactions with the system and complements the BP
 ### 📌 Overview
 A business performance dashboard built in Excel to analyze Q1 2026 revenue across four regions.
 
-https://github.com/Laxmi0412/ba-returns-portal-brd/blob/main/Excel-Dashboard.md
+<img width="623" height="401" alt="image" src="https://github.com/user-attachments/assets/010cfd88-8f96-4300-80ca-2d5206c880c5" />
+
+<img width="608" height="420" alt="image" src="https://github.com/user-attachments/assets/622c25de-0ebb-4fc7-9d3f-f1554899e4d9" />
+
+
 
 
 ### 📊 Dashboard Components
