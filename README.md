@@ -5,9 +5,6 @@
 - Designed automated end-to-end returns workflow
 - Created BRD, BPMN, and User Stories for implementation
 
-## 📖 Project Overview
-This project includes BRD, BPMN diagrams, Use Case Diagram, and User Stories — covering the full BA lifecycle.
-
 
 ### 👤 Author
 Laxmi Rushaali Kuravi  
