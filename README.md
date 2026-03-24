@@ -9,7 +9,7 @@
 
 ## 📖 Project Overview
 This project demonstrates Business Analyst skills by designing an automated customer returns portal for an e-commerce company. The goal is to replace a manual 3–5 day process with a 4-hour automated workflow.
-
+This project simulates a real-world Business Analyst role by covering requirement gathering, process modeling, solution design, and data-driven insights.
 ---
 
 ### 👤 Author
