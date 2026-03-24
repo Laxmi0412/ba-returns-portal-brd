@@ -111,6 +111,14 @@ A business performance dashboard built in Excel to analyze Q1 2026 revenue acros
 - Line Chart — Monthly revenue trend  
 - KPI Summary Cards — Key business metrics  
 
+## 📊 Tableau KPI Dashboard
+
+<img width="220" height="90" alt="image" src="https://github.com/user-attachments/assets/d15c7ded-6bd0-42d0-b23a-472dc0f49853" />
+
+
+
+
+
 ### 📈 Key Business Insights
 - East region generated the highest revenue — $156,000  
 - March was the best-performing month — $199,000  
