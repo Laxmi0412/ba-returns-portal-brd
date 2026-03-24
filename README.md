@@ -1,14 +1,9 @@
-📌 Automated Customer Returns Portal — End-to-End Business Analysis Project
+# 📌 Automated Customer Returns Portal — End-to-End Business Analysis Project
 
 ## 🚀 Project Impact
 - Reduced return processing time from 3–5 days to 4 hours (proposed)
 - Designed automated end-to-end returns workflow
-- Created BRD, BPMN, and User Stories for implementation
-
-
-### 👤 Author
-Laxmi Rushaali Kuravi  
-March 2026  
+- Created BRD, BPMN, Use Case Diagram, User Stories, and Excel Dashboard
 
 ---
 
@@ -17,24 +12,27 @@ This project demonstrates Business Analyst skills by designing an automated cust
 
 ---
 
+### 👤 Author
+Laxmi Rushaali Kuravi  
+March 2026  
+
+---
+
 ## 🎯 Key Skills Demonstrated
 - BRD Writing  
 - Process Mapping (BPMN)  
 - Requirements Analysis  
 - Stakeholder Identification  
+- Data Analysis & Reporting  
 
 ---
 
-  📊 Business Analysis Overview
+## 📊 Business Analysis Overview
 Analyzed Business Analyst job descriptions and identified key skills like requirements gathering, process mapping, and stakeholder communication. Identified gaps in BRD writing, Agile, and tools like JIRA.
 
 ---
 
-📄 Business Requirements Document (BRD)
-Learned the structure of a Business Requirements Document including scope, stakeholders, functional requirements, non-functional requirements, constraints, assumptions, and success metrics.
-
----
-
+## 📄 Business Requirements Document (BRD)
 
 ### 🎯 Scenario
 An e-commerce company wants to automate its manual returns process.
@@ -68,46 +66,32 @@ The current return process takes 3–5 days and causes delays and errors. The pr
 
 The diagram shows the end-to-end return process across Customer, System, and Warehouse.
 
-<img width="923" height="190" alt="image" src="https://github.com/user-attachments/assets/74a118ef-f0ba-4a7c-a3cc-021dbccd7bdc" />
+
+<img width="870" height="231" alt="image" src="https://github.com/user-attachments/assets/05e55bbf-435d-4ef4-a806-d4371c03fce9" />
 
 
 ### What is BPMN?
 BPMN stands for Business Process Model and Notation. It is a standard way of visualizing business processes using symbols like events, tasks, and gateways.
 
+---
+
 ## 🔁 Use Case Diagram
 
 This diagram shows how different users interact with the system.
-<img width="970" height="1533" alt="use-case-diagram" src="https://github.com/user-attachments/assets/09e565bf-304b-47d6-b7b1-a5cc04fe638a" />
 
 
-What I Built
-A business performance dashboard in Excel showing Q1 2026 revenue analysis across 4 regions.
+<img width="970" height="1533" alt="use-case-diagram" src="https://github.com/user-attachments/assets/5182cac6-1cf8-491a-88a7-da290d854d58" />
 
-Dashboard Components
-✅ PivotTable — Revenue by Region and Month
-✅ Bar Chart — Revenue by Region (Jan/Feb/Mar)
-✅ Line Chart — Monthly Revenue Trend
-✅ KPI Summary Cards
-Key Business Insights
-East region has highest revenue — $156,000
-March was best month — $199,000
-Total Q1 revenue — $559,000
-Average monthly revenue — $46,583
-North region consistently exceeded targets
-Tools Used
-Microsoft Excel
-PivotTables
-Slicers
-Conditional Formatting
-Bar and Line Charts
-Skills Demonstrated
-Excel Dashboard Design
-PivotTable Analysis
-Business KPI Reporting
-Data Visualization
-BA Reporting Skills
-Author
-Laxmi Rushaali Kuravi — B
+
+### Explanation
+- Customer can submit return requests and track status  
+- System sends confirmation emails automatically  
+- Manager reviews and approves/rejects returns  
+- Finance team generates reports for tracking refunds  
+
+This diagram highlights user interactions with the system and complements the BPMN process flow.
+
+---
 
 ## 📊 Excel Dashboard — Business Performance Analysis
 
@@ -117,47 +101,39 @@ A business performance dashboard built in Excel to analyze Q1 2026 revenue acros
 ![Excel Dashboard](excel-dashboard.png)
 
 ### 📊 Dashboard Components
-- PivotTable — Revenue by Region and Month
-- Bar Chart — Revenue comparison across regions (Jan–Mar)
-- Line Chart — Monthly revenue trend
-- KPI Summary Cards — Key business metrics
+- PivotTable — Revenue by Region and Month  
+- Bar Chart — Revenue comparison across regions (Jan–Mar)  
+- Line Chart — Monthly revenue trend  
+- KPI Summary Cards — Key business metrics  
 
 ### 📈 Key Business Insights
-- East region generated the highest revenue — $156,000
-- March was the best-performing month — $199,000
-- Total Q1 revenue — $559,000
-- Average monthly revenue — $46,583
-- North region consistently exceeded targets
+- East region generated the highest revenue — $156,000  
+- March was the best-performing month — $199,000  
+- Total Q1 revenue — $559,000  
+- Average monthly revenue — $46,583  
+- North region consistently exceeded targets  
 
 ### 🛠 Tools Used
-- Microsoft Excel
-- PivotTables
-- Slicers
-- Conditional Formatting
-- Data Visualization (Charts)
+- Microsoft Excel  
+- PivotTables  
+- Slicers  
+- Conditional Formatting  
+- Data Visualization (Charts)  
 
 ### 💡 Skills Demonstrated
-- Excel Dashboard Design
-- Data Analysis & Reporting
-- KPI Development
-- Business Insights Communication
-
-
-### Explanation
-
-- Customer can submit return requests and track status
-- System sends confirmation emails automatically
-- Manager reviews and approves/rejects returns
-- Finance team generates reports for tracking refunds
-
-This diagram highlights user interactions with the system and complements the BPMN process flow.
-
-
-### Reflection
-Created a BPMN diagram using Lucidchart AI with Customer, System, and Warehouse swimlanes. Learned how gateways represent decision points such as payment success or failure.
+- Excel Dashboard Design  
+- Data Analysis & Reporting  
+- KPI Development  
+- Business Insights Communication  
 
 ---
+
+## 🧠 Reflection
+Created BPMN and Use Case diagrams using Lucidchart and developed a complete BRD for the returns portal. Learned how to translate business needs into structured requirements and visualize workflows. Built an Excel dashboard to analyze business data and generate insights, strengthening both Business Analyst and Data Analyst skills.
+
+---
+
 ## 🛠 Tools Used
 - Lucidchart (Process Mapping)
 - GitHub (Documentation)
-- Excel (Analysis)
+- Microsoft Excel (Dashboard & Analysis)
