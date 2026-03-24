@@ -95,28 +95,63 @@ This diagram highlights user interactions with the system and complements the BP
 
 ## 📊 Excel Dashboard — Business Performance Analysis
 
-### 📌 Overview
-A business performance dashboard built in Excel to analyze Q1 2026 revenue across four regions.
+## 📊 Excel Dashboard — Business Performance Analysis
 
-<img width="623" height="401" alt="image" src="https://github.com/user-attachments/assets/010cfd88-8f96-4300-80ca-2d5206c880c5" />
+### 📌 Business Context
+This dashboard was created to help stakeholders monitor regional revenue performance and support decision-making for improving sales strategies.
 
-<img width="608" height="420" alt="image" src="https://github.com/user-attachments/assets/622c25de-0ebb-4fc7-9d3f-f1554899e4d9" />
+---
 
+### 🎯 Business Objective
+- Identify high-performing regions
+- Track monthly revenue trends
+- Support data-driven decision-making
 
+---
 
+### 👥 Stakeholders
+- Sales Team
+- Business Managers
+- Finance Team
 
-### 📊 Dashboard Components
-- PivotTable — Revenue by Region and Month  
-- Bar Chart — Revenue comparison across regions (Jan–Mar)  
-- Line Chart — Monthly revenue trend  
-- KPI Summary Cards — Key business metrics  
+---
 
-## 📊 Tableau KPI Dashboard
+### 📊 Dashboard Features
+- Revenue by Region (comparison)
+- Monthly Revenue Trend
+- KPI Summary (Total Revenue, Average Revenue)
+- Interactive filtering using slicers
 
-<img width="220" height="90" alt="image" src="https://github.com/user-attachments/assets/d15c7ded-6bd0-42d0-b23a-472dc0f49853" />
+---
 
+### 📈 Business Insights
+- East region generates highest revenue, indicating strong market demand
+- March shows peak performance, suggesting seasonal trend
+- North region consistently performs well across months
+- Opportunity to improve underperforming regions
 
+---
 
+### 💡 Business Value
+- Enables faster decision-making
+- Provides clear visibility into revenue performance
+- Helps identify growth opportunities
+
+---
+
+### 🛠 Tools Used
+- Microsoft Excel
+- PivotTables
+- Slicers
+- Data Visualization
+
+---
+
+### 💡 Skills Demonstrated
+- Business Analysis Thinking
+- Data Interpretation
+- Stakeholder Reporting
+- Dashboard Design
 
 
 ### 📈 Key Business Insights
