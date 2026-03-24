@@ -1,4 +1,4 @@
-# 📌 Automated Customer Returns Portal
+📌 Automated Customer Returns Portal — End-to-End Business Analysis Project
 
 ## 🚀 Project Impact
 - Reduced return processing time from 3–5 days to 4 hours (proposed)
@@ -6,7 +6,7 @@
 - Created BRD, BPMN, and User Stories for implementation
 
 ## 📖 Project Overview
-This project demonstrates Business Analyst skills by designing an automated returns portal for an e-commerce company to replace a manual process.
+This project includes BRD, BPMN diagrams, Use Case Diagram, and User Stories — covering the full BA lifecycle.
 
 
 ### 👤 Author
@@ -76,6 +76,22 @@ The diagram shows the end-to-end return process across Customer, System, and War
 
 ### What is BPMN?
 BPMN stands for Business Process Model and Notation. It is a standard way of visualizing business processes using symbols like events, tasks, and gateways.
+
+## 🔁 Use Case Diagram
+
+This diagram shows how different users interact with the system.
+<img width="970" height="1533" alt="use-case-diagram" src="https://github.com/user-attachments/assets/09e565bf-304b-47d6-b7b1-a5cc04fe638a" />
+
+### Explanation
+
+- Customer can submit return requests and track status
+- System sends confirmation emails automatically
+- Manager reviews and approves/rejects returns
+- Finance team generates reports for tracking refunds
+
+This diagram highlights user interactions with the system and complements the BPMN process flow.
+
+
 
 
 ### Reflection
